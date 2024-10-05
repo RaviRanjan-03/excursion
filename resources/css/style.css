@@ -9,3 +9,8 @@ body {
     font-size: 50px;
     color: #ffffff;
 }
+
+.link_name {
+    color: aquamarine;
+    font-size: 16px;
+}
