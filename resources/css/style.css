@@ -9,6 +9,17 @@ body {
     font-size: 50px;
     color: #ffffff;
 }
+.header_name2 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 42px;
+    font-weight: 300;
+    color: #ffffff;
+}
+.header_name3 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 21px;
+    color: gray;
+}
 
 .link_name {
     color: aquamarine;
